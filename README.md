@@ -1,2 +1,2 @@
 # bora-codar
- Resoluções do exercícios propostos no programa #boraCodar da Rocketseat
+  Repositório dedicado para guardar as minhas resoluções dos exercícios propostos no programa #boraCodar da Rocketseat
